@@ -1,0 +1,13 @@
+E:\Основы алгоритмизации\prakt16_4\bin\Debug\prakt16_4.exe.config
+E:\Основы алгоритмизации\prakt16_4\bin\Debug\prakt16_4.exe
+E:\Основы алгоритмизации\prakt16_4\bin\Debug\prakt16_4.pdb
+E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.csproj.AssemblyReference.cache
+E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.Form1.resources
+E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.Properties.Resources.resources
+E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.csproj.GenerateResource.cache
+E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.csproj.CoreCompileInputs.cache
+E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.exe
+E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.pdb
+E:\Основы алгоритмизации\prakt16_4\bin\Debug\Classes.dll
+E:\Основы алгоритмизации\prakt16_4\bin\Debug\Classes.pdb
+E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.csproj.CopyComplete
