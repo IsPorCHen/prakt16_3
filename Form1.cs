@@ -4,7 +4,6 @@ using System.Data;
 using System.Linq;
 using System.Windows.Forms;
 using System.IO;
-using Classes;
 
 
 namespace prakt16_4

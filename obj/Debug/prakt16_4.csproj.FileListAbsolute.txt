@@ -8,6 +8,3 @@ E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.cspro
 E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.csproj.CoreCompileInputs.cache
 E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.exe
 E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.pdb
-E:\Основы алгоритмизации\prakt16_4\bin\Debug\Classes.dll
-E:\Основы алгоритмизации\prakt16_4\bin\Debug\Classes.pdb
-E:\Основы алгоритмизации\prakt16_4\obj\Debug\prakt16_4.csproj.CopyComplete
